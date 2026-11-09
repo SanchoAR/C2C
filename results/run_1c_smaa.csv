@@ -1,0 +1,7 @@
+engine,instrument,1st,2nd,3rd
+kalman,a,0.9298,0.0702,0.0
+kalman,b,0.0702,0.9298,0.0
+kalman,c,0.0,0.0,1.0
+boosting,a,0.896,0.104,0.0
+boosting,b,0.104,0.896,0.0
+boosting,c,0.0,0.0,1.0
